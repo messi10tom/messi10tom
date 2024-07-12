@@ -1,9 +1,11 @@
-<img src="https://raw.githubusercontent.com/messi10tom/messi10tom/output/snake.svg" alt="Snake animation" /><br clear="both">
+<br clear="both">
 
 <h2 align="center">🐍 Python | 🧠 AI | 🔍 TensorFlow | 🚀 PyTorch 🖼️ CNNs | 🤖 Transformer Architectures Passionate about leveraging Python for AI development, specializing in TensorFlow and PyTorch. Expertise in designing CNNs and Transformer architectures for cutting-edge AI applications.</h2>
 
 ###
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=messi10tom" alt="messi10tom" /></a> </p>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
