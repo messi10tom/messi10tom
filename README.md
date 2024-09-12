@@ -7,6 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/messi33390918" target="blank"><img src="https://img.shields.io/twitter/follow/messi33390918?logo=twitter&style=for-the-badge" alt="messi33390918" /></a> </p>
 
+<details open> 
+    <summary><h2 align="left"> Stats 📈📊</h2></summary>
+<div>
+    <img align="left" src="https://github-readme-stats-nine-delta-30.vercel.app/api?username=messi10tom&show_icons=true&locale=en&theme=radical" alt="akshay-vs" />
+    <img align="center" src="https://github-readme-stats-nine-delta-30.vercel.app/api/top-langs?username=messi10tom&show_icons=true&locale=en&layout=compact&theme=radical" alt="akshay-vs" />
+</div>
+</details>
+<br/>
+<br/>
+<br/>
+
+
 - 📫 How to reach me **messi10tombinoy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
